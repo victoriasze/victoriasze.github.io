@@ -32,6 +32,7 @@ p{
 	color: white;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 16px;
+	text-align: left;
 }
 h3{
 	color: white;
@@ -43,7 +44,7 @@ h3{
 .button1 {
 	margin-left: 500px;
 }
-.pic1{
+.pic1 {
 	border-top: 30px;
 	border-top-color: white;
 	border-left: 30px;
@@ -53,3 +54,15 @@ h3{
 	border-bottom: 30px;
 	border-bottom-color: white;
 }
+.image-scroll {
+	width: 90vw;
+	overflow-x: scroll;
+	white-space: nowrap; 
+}
+
+.image-scroll img {
+	display: inline-block;
+}
+
+
+
