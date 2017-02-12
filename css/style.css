@@ -1,0 +1,45 @@
+.bg-image{
+	background: url("../img/1-29wyvvlja-andrew-neel.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+h1{
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	font-size: 60px;
+}
+.header{
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+}
+h2{
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.navbar a{
+	color: black;
+}
+.white-bg{
+	background-color: whitesmoke;
+}
+p{
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+.para1{
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;
+}
+h3{
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.newblogpost {
+	text-align: center;
+}
+.button1 {
+	margin-left: 500px;
+}
