@@ -43,3 +43,13 @@ h3{
 .button1 {
 	margin-left: 500px;
 }
+.pic1{
+	border-top: 30px;
+	border-top-color: white;
+	border-left: 30px;
+	border-left-color: white;
+	border-right: 30px;
+	border-right-color: white;
+	border-bottom: 30px;
+	border-bottom-color: white;
+}
